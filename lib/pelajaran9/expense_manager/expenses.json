@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "description": "makan",
+    "amount": 100000.0,
+    "category": "Transportasi",
+    "date": "2025-11-22T17:09:46.843749",
+    "notes": "jajan",
+    "isPaid": false,
+    "paymentMethodName": null,
+    "type": "regular"
+  }
+]
