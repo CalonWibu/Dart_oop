@@ -50,7 +50,7 @@ class Expense {
     if (numberOfPeople <= 0) return _amount;
     return _amount / numberOfPeople;
   }
-
+//by DYLAN
   // Menghitung pengeluaran dengan diskon
   double applyDiscount(double discountPercent) {
     if (discountPercent < 0 || discountPercent > 100) {
